@@ -5,6 +5,8 @@ import time
 
 chrome = webbrowser.Chrome
 
+print("Hello world")
+
 
 def main():
 
